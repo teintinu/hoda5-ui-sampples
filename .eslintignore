@@ -1,0 +1,15 @@
+.git
+.meteor
+galen/**
+node_modules
+coverage
+**/*.min.*
+
+
+plugins
+
+meteor/packages/zscan-rx/server/initdb
+meteor/packages/h5-agenda/temp
+meteor/tests
+meteor/app/client/plugins
+meteor/app/common/plugins
